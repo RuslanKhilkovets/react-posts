@@ -1,0 +1,7 @@
+.input{
+    width: min(100%, 500px);
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px 0;
+    display: block;
+}
